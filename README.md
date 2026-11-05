@@ -12,11 +12,11 @@ A 10-page guide for readers who know calculus and linear algebra. It checks Leve
 
 **Narrated**
 
-[![Narrated video](thumbnail_v1.png)](YOUTUBE_V1_URL)
+[![Narrated video](thumbnail_v1.png)](https://www.youtube.com/watch?v=67n0-70XfIc)
 
 **Music only**
 
-[![Music-only video](thumbnail_v2.png)](YOUTUBE_V2_URL)
+[![Music-only video](thumbnail_v2.png)](https://www.youtube.com/watch?v=ksQHvYNQbcc)
 
 Written for [MathDB problem #315779](https://mathdb.com/p/315779).
 
